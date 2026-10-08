@@ -21,7 +21,6 @@ Este pequeño proyecto de Python se elaboró para probar mi conocimiento sobre l
 ```
 git clone https://github.com/Andyy10/el-ahorcado.git
 ```
-[!NOTE] Si no puedes clonar el repositorio, puedes descargar el archivo ZIP.
 3. En una terminal (CMD, Terminal, Powershell) ejecutar el archivo main.py que se encuentra en la carpeta 'src'.
 ```
 cd src
