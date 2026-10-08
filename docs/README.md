@@ -2,7 +2,7 @@
     <img
     src="/docs/assets/logo.png"
     alt="Logo 'El Ahorcado'"
-    width="70"
+    width="230"
 />
   <h1 align="center">El Ahorcado</h1>
   <h4 align="center">Juego en terminal elaborado en Python.</h4>
